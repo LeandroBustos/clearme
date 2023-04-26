@@ -100,7 +100,7 @@ To run tests, run the following command
 
 ```http
 {
-  "state": string
+	"state": string
 }
 ```
 
@@ -108,7 +108,7 @@ To run tests, run the following command
 
 ```http
 {
-  "company_name": string
+	"company_name": string
 }
 ```
 
@@ -116,7 +116,7 @@ To run tests, run the following command
 
 ```http
 {
-  "state": "provincia"
+	"state": "provincia"
 }
 ```
 
@@ -124,7 +124,7 @@ To run tests, run the following command
 
 ```http
 {
-  "company_name": "provincia"
+	"company_name": "provincia"
 }
 ```
 
@@ -208,8 +208,8 @@ To run tests, run the following command
 
 ```http
 {
-  "member_id": string,
-  "content": string
+	"member_id": string,
+	"content": string
 }
 ```
 
@@ -217,8 +217,8 @@ To run tests, run the following command
 
 ```http
 {
-  "member_id": "member_id",
-  "content": "contenido"
+	"member_id": "member_id",
+	"content": "contenido"
 }
 ```
 
@@ -264,7 +264,7 @@ To run tests, run the following command
 
 ```http
 {
-  "content": string
+	"content": string
 }
 ```
 
@@ -272,7 +272,7 @@ To run tests, run the following command
 
 ```http
 {
-  "content": "contenido"
+	"content": "contenido"
 }
 ```
 
@@ -286,7 +286,7 @@ To run tests, run the following command
 
 ```http
 {
-  "client_id": string
+	"client_id": string
 }
 ```
 
@@ -294,15 +294,7 @@ To run tests, run the following command
 
 ```http
 {
-  "client_id": "client_id"
-}
-```
-
-#### Example
-
-```http
-{
-  "client_id": "client_id"
+	"client_id": "client_id"
 }
 ```
 
@@ -321,4 +313,5 @@ To run tests, run the following command
 ## Tech Stack
 
 **Server:** Node, Express, Javascript, MongoDB
+
 **Architecture**: Hexagonal Architecture + Vertical Slicing + Screaming Architecture
