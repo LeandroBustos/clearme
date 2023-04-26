@@ -86,7 +86,7 @@ To run tests, run the following command
 	"state": "provincia",
 	"zip": "1234",
 	"headcount": "sede",
-	"public": false | true
+	"public": false|true
 }
 ```
 
@@ -158,7 +158,7 @@ To run tests, run the following command
 	"state": "provincia",
 	"zip": "1234",
 	"headcount": "sede",
-	"public": false | true
+	"public": false|true
 }
 ```
 
