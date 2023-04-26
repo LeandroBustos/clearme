@@ -321,3 +321,4 @@ To run tests, run the following command
 ## Tech Stack
 
 **Server:** Node, Express, Javascript, MongoDB
+**Architecture**: Hexagonal Architecture + Vertical Slicing + Screaming Architecture
