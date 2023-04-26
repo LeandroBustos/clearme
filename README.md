@@ -80,7 +80,7 @@ To run tests, run the following command
 
 ```http
 {
-  "company_name": "empresa",
+	"company_name": "empresa",
 	"address": "calle",
 	"city": "ciudad",
 	"state": "provincia",
@@ -138,7 +138,7 @@ To run tests, run the following command
 
 ```http
 {
-  "company_name": string,
+	"company_name": string,
 	"address": string,
 	"city": string,
 	"state": string,
@@ -152,7 +152,7 @@ To run tests, run the following command
 
 ```http
 {
-  "company_name": "empresa",
+	"company_name": "empresa",
 	"address": "calle",
 	"city": "ciudad",
 	"state": "provincia",
@@ -180,8 +180,8 @@ To run tests, run the following command
 
 ```http
 {
-  "client_id": string,
-  "name": string,
+	"client_id": string,
+	"name": string,
 	"phone_number": string,
 	"email": string
 }
@@ -191,8 +191,8 @@ To run tests, run the following command
 
 ```http
 {
-  "client_id": "client_id",
-  "name": "nombre",
+	"client_id": "client_id",
+	"name": "nombre",
 	"phone_number": "1112345678",
 	"email": "mail@gmail.com"
 }
@@ -238,7 +238,7 @@ To run tests, run the following command
 
 ```http
 {
-  "name": string,
+	"name": string,
 	"phone_number": string,
 	"email": string
 }
@@ -248,7 +248,7 @@ To run tests, run the following command
 
 ```http
 {
-  "name": "nombre",
+	"name": "nombre",
 	"phone_number": "1112345678",
 	"email": "mail@gmail.com"
 }
