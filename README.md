@@ -66,7 +66,7 @@ To run tests, run the following command
 
 ```http
 {
-  "company_name": string,
+	"company_name": string,
 	"address": string,
 	"city": string,
 	"state": string,
